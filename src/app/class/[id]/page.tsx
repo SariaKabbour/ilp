@@ -260,7 +260,7 @@ class Main
             {
                 id: 'srs',
                 title: 'Software Requirements Specification',
-                content: 'A formal Software Requirements Specification (SRS) document produced as part of a team software project, outlining functional and non-functional requirements, system design, and project scope.',
+                content: 'A formal Software Requirements Specification (SRS) document, outlining functional and non-functional requirements, system design, and project scope.',
                 pdfUrl: '/pdfs/Software-Requirements-Specification.pdf',
             },
         ],
