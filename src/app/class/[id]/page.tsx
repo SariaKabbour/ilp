@@ -57,7 +57,7 @@ const classesData: Record<string, ClassContent> = {
         id: 'cst-338',
         title: 'CST 338 - Software Design',
         description: 'An intermediate-level programming course covering techniques for developing large-scale software systems using object-oriented programming.',
-        subject: 'Software Engineering',
+        subject: 'Software Design',
         longDescription: 'This is an intermediate-level programming course covering techniques for developing large-scale software systems using object-oriented programming. Coverage includes software development life cycle models, requirements analysis, and graphical user interface development.',
         sections: [
             {
