@@ -482,7 +482,7 @@ export default function ClassPage() {
             <footer className="border-t border-slate-700/50 py-8 px-6">
                 <div className="max-w-6xl mx-auto text-center text-slate-400">
                     <img src="/logo.svg" alt="CSUMB Logo" className="h-18 mx-auto mb-4 opacity-70" />
-                    <p>&copy; 2024 My Classes. All rights reserved.</p>
+                    <p>&copy; 2026. All rights reserved.</p>
                 </div>
             </footer>
         </div>
