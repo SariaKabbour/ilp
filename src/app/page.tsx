@@ -56,8 +56,8 @@ const classes: Class[] = [
     {
         id: 'cst-338',
         title: 'CST 338 - Software Design',
-        description: 'An intermediate-level programming course covering techniques for developing large-scale software systems using object-oriented programming. Learn about software development life cycle models, requirements analysis, and GUI development.',
-        subject: 'Software Engineering',
+        description: 'A programming course covering techniques for developing large-scale software systems using object-oriented programming. Learn about software development life cycle models, requirements analysis, and GUI development.',
+        subject: 'Software Design',
         color: 'from-teal-500 to-cyan-500'
     },
     {
